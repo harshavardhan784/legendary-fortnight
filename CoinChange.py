@@ -1,3 +1,5 @@
+# This code is for no of ways one can give change for a particular 'x'.
+
 def knapsack(W,w,n):
     if( w==0):
         return 1
