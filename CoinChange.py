@@ -1,3 +1,4 @@
+# This code is to find whether there exists change for some x using given denominations
 def knapsack(W,w,n):
     if( w==0):
         return 1
